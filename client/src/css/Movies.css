@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.searchfield {
+    height: 20px;
+    width: 10rem;
+    background-color: #FFFFFF;
+    border-radius: 2px;
+    margin-left: 1%;
+}
+
+.btn {
+    height: 20px;
+    width: 60px;
+    border-color: #FFFFFF;
+    border-radius: 1rem;
+}
